@@ -1,1 +1,3 @@
-a {color:salmon}
+a:link {color:salmon}
+
+abbr:hover {color:red}
