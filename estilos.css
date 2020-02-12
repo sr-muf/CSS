@@ -1,3 +1,14 @@
 a:link {color:salmon}
 
 abbr:hover {color:red}
+
+img[src="images/Back_left.JPG"] {
+  border: 2px
+dotted red;}
+
+img[src="images/800px-De_Lorean_filter.jpg"] {
+  border: 2px
+dotted red;}
+
+img[src="images/Engine_full.JPG"] {
+  width: 500px}
